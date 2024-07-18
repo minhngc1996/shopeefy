@@ -1,0 +1,6 @@
+.custom-truncate {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 4rem; /* Điều chỉnh kích thước này theo nhu cầu */
+}
